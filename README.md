@@ -4,10 +4,13 @@
 
 This is a fully functional calculator I wrote in MIPS assembly. The program converts the input expression from infix notation to [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) and uses stacks to evaulate the expression
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Example expression: 2*5+1 
+
+![image](https://user-images.githubusercontent.com/36385404/171065227-ae564734-33da-4e6b-9224-9022a05f0536.png)
+
+Now we evauluate the expression using 2 5 * 1 + 
+
+![image](https://user-images.githubusercontent.com/36385404/171065377-d0e58fc1-a292-4952-933c-d8912bf1e102.png)
 
 
 ## Calculor features 
