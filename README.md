@@ -2,7 +2,7 @@
 
 ## About
 
-This is a fully functional calculator I wrote in MIPS assembly. The program converts the input expression from infix notation to [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) and uses stacks to evaulate the expression
+This is a calculator I wrote in MIPS assembly. The program converts the input expression from infix notation to [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) and uses stacks to evaulate the expression
 
 Example expression: 2*5+1 
 
