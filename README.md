@@ -11,7 +11,6 @@ Subtraction
 Multiplcation
 Division
 Varaible Assignments
-Exponents
 Parenthesis 
 Input validation handling
 
@@ -20,3 +19,6 @@ Input validation handling
 
 Run the mips_ide.jar file and open up the assembly file. Compile and run the code. You can enter expressions on the bottom
 
+## Sample runs
+
+![image](https://user-images.githubusercontent.com/36385404/171064665-4660d53a-c328-4c8f-83aa-2611a9bf56e5.png)
