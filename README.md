@@ -2,7 +2,13 @@
 
 ## About
 
-This is a fully functional calculator I wrote in MIPS assembly. 
+This is a fully functional calculator I wrote in MIPS assembly. The program converts the input expression from infix notation to [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) and uses stacks to evaulate the expression
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 ## Calculor features 
 
